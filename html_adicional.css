@@ -82,7 +82,7 @@ ul.nav a.Acessar:hover {
     }
 /*############# | BARRA lateral | */
 /*#########################################################################*/
-.d-print-none {
+#region-main-box {
 background-color: #dff0d8 !important;
 }
 
