@@ -82,7 +82,7 @@ ul.nav a.Acessar:hover {
     }
 /*############# | BARRA lateral | */
 /*#########################################################################*/
-#nav-drawer {
+.d-print-none {
 background-color: #dff0d8 !important;
 }
 
